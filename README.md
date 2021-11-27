@@ -17,9 +17,10 @@ Berdasarkan topologi tersebut, menerapkan subnetting pada Cisco Packet Tracer da
 Membuat topologi pada CPT 
 ![image](https://user-images.githubusercontent.com/68548653/143673502-ee3cca01-f9a7-410d-88da-8d8dc5e67607.png)
 
-Membuat klasifikasi class seperti berikut 
+1. Membuat klasifikasi class(labelling) seperti berikut
+<img src="ss/labeltopo.png">
 
-Menentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet dan melakukan labelling netmask berdasarkan jumlah IP yang dibutuhkan
+2. Menentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet dan melakukan labelling netmask berdasarkan jumlah IP yang dibutuhkan
 Nama Subnet | Jumlah Host | Netmask | IP
 ------------- | ------------- | ------------- | -------------
 A3(PUCHI + WATER7) | 2 | /30 | 192.198.27.164
@@ -40,6 +41,7 @@ A4(COURYARD + CAMBELT) | 2021 | /21 | 192.198.27.156
 Total | 5845 | /19 | -
 
 Menghitung pembagian IP berdasarkan NID dan netmask
+<img src="ss/tree.png">
 
 ### GNS3 - Teknik CIDR (Classless Inter Domain Routing)
 Membuat topologi pada GNS3
