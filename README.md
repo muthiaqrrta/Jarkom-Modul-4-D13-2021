@@ -17,6 +17,11 @@ Berdasarkan topologi tersebut, menerapkan subnetting pada Cisco Packet Tracer da
 Membuat topologi pada CPT 
 ![image](https://user-images.githubusercontent.com/68548653/143673502-ee3cca01-f9a7-410d-88da-8d8dc5e67607.png)
 
+Membuat klasifikasi class seperti berikut 
+
+Menentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet dan melakukan labelling netmask berdasarkan jumlah IP yang dibutuhkan
+
+Menghitung pembagian IP berdasarkan NID dan netmask
 
 ### GNS3 - Teknik CIDR (Classless Inter Domain Routing)
 Membuat topologi pada GNS3
