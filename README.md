@@ -22,6 +22,18 @@ Membuat klasifikasi class seperti berikut
 Menentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet dan melakukan labelling netmask berdasarkan jumlah IP yang dibutuhkan
 Nama Subnet | Jumlah Host | Netmask | IP
 ------------- | ------------- | ------------- | -------------
+A3(PUCHI + WATER7) | 2 | /30 | 192.198.27.164
+A6(PUCHI + WATER7) | 2 | /30 | 192.198.27.160
+A9(PUCHI + WATER7) | 2 | /30 | 192.198.27.156
+A10(PUCHI + WATER7) | 2 | /30 | 192.198.27.152
+A14(PUCHI + WATER7) | 2 | /30 | 192.198.27.148
+A15(PUCHI + WATER7) | 2 | /30 | 192.198.27.144
+A13(PUCHI + WATER7) | 2 | /30 | 192.198.27.156
+A1(PUCHI + WATER7) | 2 | /30 | 192.198.27.156
+A8(PUCHI + WATER7) | 2 | /30 | 192.198.27.156
+A12(PUCHI + WATER7) | 2 | /30 | 192.198.27.156
+A3(PUCHI + WATER7) | 2 | /30 | 192.198.27.156
+A3(PUCHI + WATER7) | 2 | /30 | 192.198.27.156
 A3(PUCHI + WATER7) | 2 | /30 | 192.198.27.156
 A3(PUCHI + WATER7) | 2 | /30 | 192.198.27.156
 A3(PUCHI + WATER7) | 2 | /30 | 192.198.27.156
