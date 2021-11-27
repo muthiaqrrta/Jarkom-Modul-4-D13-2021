@@ -20,6 +20,11 @@ Membuat topologi pada CPT
 Membuat klasifikasi class seperti berikut 
 
 Menentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet dan melakukan labelling netmask berdasarkan jumlah IP yang dibutuhkan
+Nama Subnet | Jumlah Host | Netmask | IP
+------------- | ------------- | ------------- | -------------
+A3(PUCHI + WATER7) | 2 | /30 | 192.198.27.156
+A3(PUCHI + WATER7) | 2 | /30 | 192.198.27.156
+A3(PUCHI + WATER7) | 2 | /30 | 192.198.27.156
 
 Menghitung pembagian IP berdasarkan NID dan netmask
 
