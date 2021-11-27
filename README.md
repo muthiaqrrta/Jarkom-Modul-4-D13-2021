@@ -23,20 +23,21 @@ Menentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet dan melakukan label
 Nama Subnet | Jumlah Host | Netmask | IP
 ------------- | ------------- | ------------- | -------------
 A3(PUCHI + WATER7) | 2 | /30 | 192.198.27.164
-A6(PUCHI + WATER7) | 2 | /30 | 192.198.27.160
-A9(PUCHI + WATER7) | 2 | /30 | 192.198.27.156
-A10(PUCHI + WATER7) | 2 | /30 | 192.198.27.152
-A14(PUCHI + WATER7) | 2 | /30 | 192.198.27.148
-A15(PUCHI + WATER7) | 2 | /30 | 192.198.27.144
-A13(PUCHI + WATER7) | 2 | /30 | 192.198.27.156
-A1(PUCHI + WATER7) | 2 | /30 | 192.198.27.156
-A8(PUCHI + WATER7) | 2 | /30 | 192.198.27.156
-A12(PUCHI + WATER7) | 2 | /30 | 192.198.27.156
-A7(PUCHI + WATER7) | 2 | /30 | 192.198.27.156
-A2(PUCHI + WATER7) | 2 | /30 | 192.198.27.156
-A11(PUCHI + WATER7) | 2 | /30 | 192.198.27.156
-A5(PUCHI + WATER7) | 2 | /30 | 192.198.27.156
-A4(PUCHI + WATER7) | 2 | /30 | 192.198.27.156
+A6(FOOSHA + WATER7) | 2 | /30 | 192.198.27.160
+A9(FOOSHA + GUANHO) | 2 | /30 | 192.198.27.156
+A10(GUANHO + OIMO) | 2 | /30 | 192.198.27.152
+A14(DORIKI) | 2 | /30 | 192.198.27.148
+A15(FUKUROU) | 2 | /30 | 192.198.27.144
+A13(JORGE) | 13 | /28 | 192.198.27.156
+A1(JIPANGU) | 101 | /25 | 192.198.27.156
+A8(ENIESLOBBY) | 252 | /24 | 192.198.27.156
+A12(MAINGATE) | 502 | /23 | 192.198.27.156
+A7(JABRA) | 521 | /22 | 192.198.27.156
+A2(CIPHER) | 701 | /22 | 192.198.27.156
+A11(ELENA) | 721 | /22 | 192.198.27.156
+A5(BLUENO) | 1001 | /22 | 192.198.27.156
+A4(COURYARD + CAMBELT) | 2021 | /21 | 192.198.27.156
+Total | 5845 | /19 | -
 
 Menghitung pembagian IP berdasarkan NID dan netmask
 
