@@ -20,3 +20,4 @@ Membuat topologi pada CPT
 
 ### GNS3 - Teknik CIDR (Classless Inter Domain Routing)
 Membuat topologi pada GNS3
+![image](https://user-images.githubusercontent.com/68548653/143674669-94f8d60e-fbca-4fa8-a574-cf182cd23a8d.png)
