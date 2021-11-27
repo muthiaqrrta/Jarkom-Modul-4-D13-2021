@@ -21,6 +21,7 @@ Membuat topologi pada CPT
 <img src="ss/labeltopo.png">
 
 2. Menentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet dan melakukan labelling netmask berdasarkan jumlah IP yang dibutuhkan
+
 Nama Subnet | Jumlah Host | Netmask | IP
 ------------- | ------------- | ------------- | -------------
 A3(PUCHI + WATER7) | 2 | /30 | 192.198.27.164
