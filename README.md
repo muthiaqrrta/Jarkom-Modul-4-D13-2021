@@ -51,3 +51,4 @@ Membuat topologi pada GNS3
 ## Kendala
 - Kurang memahami sistem routing
 - Terdapat anggota yang GNS3 nya mengalami error
+- Masih sedikit mengalami kendala ketika perhitungan
